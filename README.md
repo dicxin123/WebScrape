@@ -1,2 +1,2 @@
 # WebScrape
-AI Web Scraping with StreamLit UI, Selenium, LangChain (to bridge the AI) etc libraries
+AI Web Scraping with StreamLit UI, Selenium,and etc.
